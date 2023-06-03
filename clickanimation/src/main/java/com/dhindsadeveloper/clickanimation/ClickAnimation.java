@@ -4,7 +4,7 @@ import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
 
-public class ViewAnimation {
+public class ClickAnimation {
 
     public void clickAnimation(final View view) {
 
