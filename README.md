@@ -15,7 +15,7 @@ allprojects {
   
   ```gradle
    dependencies {
-	        implementation 'com.github.developerJagjot:Animation:Tag'
+	        implementation 'com.github.developerJagjot:Animation:1.0.0'
 	}
   ``` 
   
